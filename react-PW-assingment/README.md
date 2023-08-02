@@ -1,8 +1,22 @@
-# React + Vite
+# PW React Assignment2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Question1 Solution**:-
+firstly install React APP:
+:-npm create react_app
+Folder and file Structure of Question1 Solution:
+-react-PW-assingment:
+-src:
+-component:
+-assingment2:
+-instaoginandSignup:
+-Changeform.jsx:
+-Login.jsx:
+-Signup.jsx:
+-sign.css:
+to run react go to the file main.jsx
 
-Currently, two official plugins are available:
+Assignment Info:-
+This project is to create a Creatining a User Page like Instagram using React Functionalities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Challenges:-
+Challenges that i faced it is when user clicked login link then user will be going to in login page and when user clicked signup link then user will be going to a signup page.
